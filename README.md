@@ -1,5 +1,4 @@
 ```sh
-➜  ~ ls interests
-cmake  cpp  crossplatform  ctf  gamedev  linux  playstationportable  tmux  vim  zsh computergraphics
-computinghistory
+➜  ~/interests ls
+cmake  computergraphics  cpp  crossplatform  ctf  gamedev  linux  retrocomputing  tmux  vim  zsh
 ```
