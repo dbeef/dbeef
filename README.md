@@ -1,1 +1,4 @@
-/zsh/vim/tmux/linux/cpp/crossplatform/cmake/ctf/gamedev/playstationportable
+```sh
+➜  ~ ls interests
+cmake  cpp  crossplatform  ctf  gamedev  linux  playstationportable  tmux  vim  zsh
+```
